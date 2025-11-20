@@ -3,19 +3,9 @@ A WhatsApp-like messaging application built with Node.js, Express, MongoDB, and 
 
 # 📂 Project Structure
 text
-# MiniChats-API/
 
-├── models/
-│   └── chat.js          # Mongoose schema for chat messages
-├── views/
-│   ├── index.ejs        # Display all chats
-│   ├── new.ejs          # Create new chat form
-│   └── edit.ejs         # Edit existing chat
-├── public/
-│   └── style.css        # Styling
-├── index.js             # Main server file
-├── init.js              # Database initialization script
-└── package.json         # Dependencies
+<img width="717" height="348" alt="Screenshot 2025-11-20 132619" src="https://github.com/user-attachments/assets/0dbdf0e1-e5a1-47af-b78c-66f02f996d5b" />
+
 
 # ✨ Features
 
