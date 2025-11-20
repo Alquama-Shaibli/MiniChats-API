@@ -46,21 +46,26 @@ Prerequisites
 # Steps
 # Clone the repository
 
-#bash
+# bash
 git clone https://github.com/Alquama-Shaibli/MiniChats-API.git
+
 cd MiniChats-API
+
 Install dependencies
 
-#bash
+# bash
 npm install
+
 Initialize the database with sample data
 
-#bash
+# bash
 node init.js
+
 Start the server
 
-#bash
+# bash
 node index.js
+
 Open your browser
 
 # text
