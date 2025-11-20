@@ -1,6 +1,21 @@
 # 💬 MiniChats API
 A WhatsApp-like messaging application built with Node.js, Express, MongoDB, and EJS templates. MiniChats allows users to send, view, edit, and delete messages in real-time through a clean web interface.
 
+# 📂 Project Structure
+text
+MiniChats-API/
+├── models/
+│   └── chat.js          # Mongoose schema for chat messages
+├── views/
+│   ├── index.ejs        # Display all chats
+│   ├── new.ejs          # Create new chat form
+│   └── edit.ejs         # Edit existing chat
+├── public/
+│   └── style.css        # Styling
+├── index.js             # Main server file
+├── init.js              # Database initialization script
+└── package.json         # Dependencies
+
 # ✨ Features
 
 # 📝 Create Messages - Send messages between users
